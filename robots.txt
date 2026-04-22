@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dragonmoney.vercel.app/sitemap.xml
+Sitemap: https://dragonmoney-sooty.vercel.app/sitemap.xml
